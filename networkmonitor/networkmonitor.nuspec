@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>networkmonitor</id>
+		<title>Network Monitor</title>
+		<version>3.4</version>
+		<authors>Microsoft</authors>
+		<owners>Bill Long</owners>
+		<summary>Network Monitor</summary>
+		<description>Network Monitor 3.4 is a protocol analyzer. It allows you to capture network traffic and view and analyze it.</description>
+		<tags>netmon network monitor chocolatey protocol analyzer sniffer</tags>
+	</metadata>
+</package>

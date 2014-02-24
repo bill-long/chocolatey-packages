@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'networkmonitor' 'exe' '/q' 'http://download.microsoft.com/download/7/1/0/7105C7FF-768E-4472-AFD5-F29108D1E383/NM34_x86.exe' 'http://download.microsoft.com/download/7/1/0/7105C7FF-768E-4472-AFD5-F29108D1E383/NM34_x64.exe'
