@@ -6,6 +6,8 @@
   # We're going to copy both the 32-bit and 64-bit executables, because
   # the bitness of Outlook won't necessarily match the bitness of the
   # OS.
+  
+  # These links map to February 2014 Release, build 15.0.0.1041
   $x86Url = 'http://mfcmapi.codeplex.com/downloads/get/795660'
   $x64Url = 'http://mfcmapi.codeplex.com/downloads/get/795662'
 
