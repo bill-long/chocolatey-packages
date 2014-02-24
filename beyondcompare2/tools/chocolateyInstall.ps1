@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'beyondcompare' 'exe' '/SP- /VERYSILENT /NORESTART' 'http://www.scootersoftware.com/beycomp_081407.exe'
