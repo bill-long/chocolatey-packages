@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>sourceinsight</id>
+		<title>Source Insight</title>
+		<version>3.5.0072.20140212</version>
+		<authors>Source Dynamics</authors>
+		<owners>Bill Long</owners>
+		<summary>Source Insight</summary>
+		<description>Source Insight is a revolutionary project oriented program code editor and code browser, with built-in analysis for C/C++, C#, and Java programs, as well as other languages. Source Insight parses your source code and maintains its own database of symbolic information dynamically while you work, and presents useful contextual information to you automatically. Not only is Source Insight a great program editor, but it also can display reference trees, class inheritance diagrams, and call trees. Source Insight features the quickest navigation of source code and source information of any programming editor. Let Source Insight loose on your project and see what a difference it makes in your productivity.</description>
+		<tags>source insight code editor</tags>
+		<dependencies>
+			<dependency id="autoit.commandline" />
+		</dependencies>
+	</metadata>
+</package>
