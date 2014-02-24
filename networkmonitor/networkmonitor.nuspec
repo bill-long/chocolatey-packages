@@ -3,7 +3,7 @@
 	<metadata>
 		<id>networkmonitor</id>
 		<title>Network Monitor</title>
-		<version>3.4</version>
+		<version>3.4.0.20140224</version>
 		<authors>Microsoft</authors>
 		<owners>Bill Long</owners>
 		<summary>Network Monitor</summary>
