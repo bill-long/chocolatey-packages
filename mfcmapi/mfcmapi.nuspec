@@ -10,6 +10,7 @@
     <projectUrl>http://mfcmapi.codeplex.com/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>MFCMAPI provides access to MAPI stores to facilitate investigation of Exchange and Outlook issues and to provide developers with a sample for MAPI development.
+	
 This package downloads both the x86 and x64 binaries and puts them in %ChocolateyBinRoot%\MfcMapi.</description>
     <summary>MFCMAPI provides access to MAPI stores to facilitate investigation of Exchange and Outlook issues and to provide developers with a sample for MAPI development.</summary>
     <tags>mfcmapi</tags>
