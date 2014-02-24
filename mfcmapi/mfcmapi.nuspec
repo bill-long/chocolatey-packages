@@ -6,7 +6,7 @@
     <title>MFCMapi</title>
     <authors>Stephen Griffin</authors>
     <owners>Stephen Griffin, Bill Long</owners>
-    <licenseUrl>http://technet.microsoft.com/en-us/sysinternals/bb469936</licenseUrl>
+    <licenseUrl>http://mfcmapi.codeplex.com/license</licenseUrl>
     <projectUrl>http://mfcmapi.codeplex.com/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>MFCMAPI provides access to MAPI stores to facilitate investigation of Exchange and Outlook issues and to provide developers with a sample for MAPI development.

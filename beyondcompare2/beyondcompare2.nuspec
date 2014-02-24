@@ -6,6 +6,7 @@
 		<version>2.5.3</version>
 		<authors>Scooter Software</authors>
 		<owners>Bill Long</owners>
+		<projectUrl>http://scootersoftware.com/</projectUrl>
 		<summary>Beyond Compare 2</summary>
 		<description>Beyond Compare is the ideal tool for comparing files and folders on your Windows or Linux system. Visualize changes in your code and carefully reconcile them. This is the old version of Beyond Compare for those of us who still don't have site licenses for 3.</description>
 		<tags>chocolatey beyond compare beyondcompare</tags>
