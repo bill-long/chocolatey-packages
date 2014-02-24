@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mailboxlogparser</id>
+    <version>1.0</version>
+    <title>MailboxLogParser</title>
+    <authors>Matt Stehle</authors>
+    <owners>Matt Stehle, Bill Long</owners>
+    <licenseUrl>https://mailboxlogparser.codeplex.com/license</licenseUrl>
+    <projectUrl>https://mailboxlogparser.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MailboxLogParser works with Exchange ActiveSync mailbox logs to perform four main tasks:
+	
+1. Display a quick table view of the summary data with the raw data in a preview pane for quick navigation of mailbox logs
+
+2. Generate CSV output with a table containing rows of summary and analysis data for each mailbox log entry in all loaded mailbox logs
+
+3. Merge multiple mailbox logs into a single log file and summary table format. Logs from different mailboxes can be merged into a single view or overlapping logs from the same mailbox can be combined into a single view.
+
+This package installs to %ChocolateyBinRoot%\mailboxlogparser.</description>
+    <summary>MailboxLogParser works with Exchange ActiveSync mailbox logs to help identify issues.</summary>
+    <tags>mailbox log parser mailboxlogparser</tags>
+  </metadata>
+</package>
