@@ -19,6 +19,6 @@
 
 This package installs to %ChocolateyBinRoot%\mailboxlogparser.</description>
     <summary>MailboxLogParser works with Exchange ActiveSync mailbox logs to help identify issues.</summary>
-    <tags>mailbox log parser mailboxlogparser</tags>
+    <tags>mailbox log parser mailboxlogparser Exchange ActiveSync</tags>
   </metadata>
 </package>
