@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>logparserstudio</id>
+    <version>2.2</version>
+    <title>Log Parser Studio</title>
+    <authors>Kary Wall</authors>
+    <owners>Kary Wall, Bill Long</owners>
+    <projectUrl>http://blogs.technet.com/b/karywa/</projectUrl>
+    <description>Log Parser Studio is a utility that allows you to search through and create reports from your IIS, Event, EXADB and others types of logs. It builds on top of Log Parser 2.2 and has a full user interface for easy creation and management of related SQL queries.
+	
+This package installs to %ChocolateyBinRoot%\logparserstudio.</description>
+    <summary>Log Parser Studio is a utility that allows you to search through and create reports from your IIS, Event, EXADB and others types of logs. It builds on top of Log Parser 2.2 and has a full user interface for easy creation and management of related SQL queries.</summary>
+    <tags>log parser studio</tags>
+	<dependencies>
+		<dependency id="logparser" version="2.2" />
+	</dependencies>
+  </metadata>
+</package>
