@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WindowsPhoneSDK</id>
+    <title>Windows Phone SDK</title>
+    <version>8.0</version>
+    <authors>Microsoft</authors>
+    <owners>Bill Long</owners>
+    <summary>The Windows Phone Software Development Kit (SDK) includes all of the tools that you need to develop apps and games for Windows Phone.</summary>
+    <description>The Windows Phone Software Development Kit (SDK) includes all of the tools that you need to develop apps and games for Windows Phone.</description>
+    <projectUrl>http://dev.windowsphone.com/en-us/downloadsdk</projectUrl>
+    <tags>Windows Phone SDK</tags>
+  </metadata>
+</package>
