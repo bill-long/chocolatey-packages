@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>windowsphonesdk</id>
+    <id>windowsphone8sdk</id>
     <title>Windows Phone 8 SDK</title>
     <version>8.0.0.20140227</version>
     <authors>Microsoft</authors>
@@ -9,6 +9,6 @@
     <summary>The Windows Phone Software Development Kit (SDK) includes all of the tools that you need to develop apps and games for Windows Phone.</summary>
     <description>The Windows Phone Software Development Kit (SDK) includes all of the tools that you need to develop apps and games for Windows Phone.</description>
     <projectUrl>http://dev.windowsphone.com/en-us/downloadsdk</projectUrl>
-    <tags>Windows Phone SDK</tags>
+    <tags>Microsoft Windows Phone 8 SDK Visual Studio 2012 Express WP WP8 WindowsPhone</tags>
   </metadata>
 </package>
