@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rpx</id>
+    <title>Microsoft Exchange RPC Extractor</title>
+    <version>2.0</version>
+    <authors>Microsoft</authors>
+    <owners>Bill Long</owners>
+    <summary>rpx</summary>
+    <description>rpx</description>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=3520</projectUrl>
+    <tags>rpx admin</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>calcheck</id>
+    <title>calcheck</title>
+    <version>2.2</version>
+    <authors>Microsoft</authors>
+    <owners>Bill Long</owners>
+    <summary>Calendar Checking Tool for Outlook</summary>
+    <description>The Calendar Checking Tool for Outlook (CalCheck) is a program that checks the Microsoft Outlook Calendar and items for problems or for potential problems.</description>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=28786</projectUrl>
+    <tags>calcheck Calendar Checking Tool Microsoft Outlook</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
