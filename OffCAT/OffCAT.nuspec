@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OffCAT</id>
+    <title>Microsoft Office Configuration Analyzer Tool</title>
+    <version>1.2</version>
+    <authors>Microsoft</authors>
+    <owners>Bill Long</owners>
+    <summary>Microsoft Office Configuration Analyzer Tool (OffCAT)</summary>
+    <description>The Office Configuration Analyzer Tool 1.2 (OffCAT ) provides a quick and easy method to analyze most Microsoft Office programs for common configurations that may cause problems.</description>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=36852</projectUrl>
+    <tags>OffCAT Microsoft Office Configuration Analyzer Tool</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
