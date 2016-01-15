@@ -2,7 +2,7 @@
 
 $packageName= 'sccmtoolkit'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://download.microsoft.com/download/D/3/8/D3842EDD-D2AF-4035-8C0F-C07984F4134F/ConfigMgrTools.msi'
+$url        = 'https://download.microsoft.com/download/5/5/0/55078AC4-3D15-407B-948E-CEB72A0A5A50/ConfigMgrTools.msi'
 
 $packageArgs = @{
   packageName   = $packageName
