@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>mfcmapi</id>
-    <version>2014.02.13</version>
+    <version>2015.09.01</version>
     <title>MFCMapi</title>
     <authors>Stephen Griffin</authors>
     <owners>Stephen Griffin, Bill Long</owners>
